@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gpaforecaster.lovable.app">gpaforecaster.lovable.app</a>
+  <a href="https://gpaforecaster.lovable.app/app"></a>
 </p>
 
 <p align="center">
