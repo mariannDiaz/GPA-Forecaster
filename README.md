@@ -1,15 +1,15 @@
+<h1 align="center">GPA Forecaster</h1>
+
 <p align="center">
   <img src="public/favicon.svg" alt="GPA Forecaster" width="64" />
 </p>
-
-<h1 align="center">GPA Forecaster</h1>
 
 <p align="center">
   <strong>Plan your classes. Predict your GPA. Reach your dream school.</strong>
 </p>
 
 <p align="center">
-  <a href="https://gpaforecaster.lovable.app/app"></a>
+  <a href="https://gpaforecaster.lovable.app"></a>
 </p>
 
 <p align="center">
