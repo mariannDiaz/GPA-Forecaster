@@ -1,6 +1,6 @@
 <h1 align="center">GPA Forecaster</h1>
 
-<a href="https://gpaforecaster.lovable.app"></a>
+<link href="https://gpaforecaster.lovable.app"></link>
 
 <!-- <p align="center">
   <img src="public/favicon.svg" alt="GPA Forecaster" width="64" />
