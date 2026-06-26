@@ -1,5 +1,7 @@
 <h1 align="center">GPA Forecaster</h1>
 
+<a href="https://gpaforecaster.lovable.app"></a>
+
 <!-- <p align="center">
   <img src="public/favicon.svg" alt="GPA Forecaster" width="64" />
 </p> -->
@@ -8,9 +10,9 @@
   <strong>Plan your classes. Predict your GPA. Reach your dream school.</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://gpaforecaster.lovable.app"></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" />
