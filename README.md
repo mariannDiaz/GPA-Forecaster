@@ -1,18 +1,11 @@
 <h1 align="center">GPA Forecaster</h1>
 
-<link href="https://gpaforecaster.lovable.app"></link>
-
-<!-- <p align="center">
-  <img src="public/favicon.svg" alt="GPA Forecaster" width="64" />
-</p> -->
-
 <p align="center">
   <strong>Plan your classes. Predict your GPA. Reach your dream school.</strong>
+  <br/>
+  <a href="https://gpaforecaster.lovable.app">Go to GPA Forecaster</a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://gpaforecaster.lovable.app"></a>
-</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" />
