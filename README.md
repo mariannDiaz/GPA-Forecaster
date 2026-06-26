@@ -1,8 +1,8 @@
 <h1 align="center">GPA Forecaster</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="public/favicon.svg" alt="GPA Forecaster" width="64" />
-</p>
+</p> -->
 
 <p align="center">
   <strong>Plan your classes. Predict your GPA. Reach your dream school.</strong>
